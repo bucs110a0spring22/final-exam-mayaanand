@@ -11,17 +11,18 @@ _Replace anything surrounded by the `< >` symbols._
 Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
-Please list the urls for the APIs you used:
+Please list the urls for the APIs you used: https://api-football-standings.azharimm.site/leagues", "https://newsapi.org/v2/everything?apiKey={}"
 
-Summary of Program:
+Summary of Program: Provides a list of teams in different soccer leagues and any news headlines regarding whatever team you insert as well as compares team to team based on wins, losses or whatever input. 
 
-Most Challenging topic in the course:
+Most Challenging topic in the course: Advanced Strings
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+none 
 
 ## REFERENCES:
- < List any outside resources used >
+ https://www.w3schools.com/python/module_requests.asp
+ https://docs.python.org/3/library/json.html
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+none
